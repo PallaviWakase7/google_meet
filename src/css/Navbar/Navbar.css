@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+
+.navanc{
+    color: white; 
+}
+
+button{
+border-radius: 20px;
+height: 40px;
+width: 150px;
+}
+
+hr{
+    width: 90%;
+}

@@ -1,0 +1,86 @@
+*{
+  background-color: whitesmoke;
+}
+
+#my-name{
+  /* background-image: url(./Image2/mackbook_mouse.jpg); */
+  text-align: center;
+  margin-top:none;
+  padding-left: 60px;
+  
+}
+.horizontal-list{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding-left: 80px;
+   
+    list-style: none;
+    /* background-image: url(./Image2/mackbook_mouse.jpg) */
+
+}
+
+ #my-image img{
+  height: 200px;
+ width: 200px;
+ padding-left: 300px;
+ padding-right: 500px;
+ border-radius: 20px 20px 20px 20px;
+
+}
+/* #my-image {
+  height: 12rem;
+  width: 12rem;
+  margin: auto;
+  margin-top: -17vh;
+}
+
+#my-image img {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  border: 3px solid var(--primary-color);
+  box-shadow: 1px 1px 10px 2px lightgrey;
+} */
+
+.skills-display {
+  width: 70%;
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.skill-progress {
+  width: 7rem;
+  height: 1.4rem;
+  margin: 20px;
+  background-color: lightgrey;
+  border-radius: 0.8rem;
+  overflow: hidden;
+}
+.skill-name {
+  font-size: 15px;
+  color: var(--primary-color);
+  padding: 6px 0 10px 20px;
+}
+
+.skill-name span {
+  margin: 0;
+}
+.section-heading {
+  width: auto;
+  padding: 20px 10px 10px;
+  margin: 10px auto;
+  font-weight: 400;
+}
+
+.section-heading span {
+  font-size: var(--section-heading-font-size);
+  color: #2857a4;
+  display: inline-block;
+  padding-top: 10px;
+  margin-right: 0.5rem;
+}

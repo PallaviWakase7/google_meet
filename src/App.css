@@ -1,0 +1,9 @@
+.background-img{
+    height: 750px;
+    width: 100%;
+    background-image:url('https://assets.website-files.com/63fc977c14aaea404dce4439/64b79e1528c7d7338ff846f9_BG.webp');
+    background-size:cover;
+    background-position: center;
+    border-radius: 30px;
+    /* background-attachment: fixed; */
+}

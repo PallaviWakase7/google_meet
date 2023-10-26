@@ -1,0 +1,15 @@
+
+.nav-menu{
+height: 50px;
+background-color: antiquewhite;
+display: flex;
+list-style: none;
+justify-content: center;
+align-items: center;
+justify-content: space-evenly;
+border-radius: 20px;
+font-weight: 500;
+background-image: url(./Image1/mackbook_mouse.jpg);
+background-position: center;
+}
+
